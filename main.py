@@ -8,3 +8,4 @@ else:
     img_invertida = cv2.flip(img, 0)
     cv2.imwrite("copia_invertida_vertical.jpeg", img_invertida)
     print("Imagen invertida guardada como copia_invertida_vertical.jpeg")
+    print("probando pull request de este archivo desde otra rama local (dev01)")
