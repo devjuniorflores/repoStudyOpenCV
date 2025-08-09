@@ -1,0 +1,1 @@
+Formulario para saber como se esta compartando el bug en cuestion
